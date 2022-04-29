@@ -1,0 +1,9 @@
+Admin dashboard -> 
+1. dark and light mode
+2. easy navigation and define clear routes
+
+Routes
+1. App
+  1.1 - 
+1. Dashboard - /
+2. Analytics - 

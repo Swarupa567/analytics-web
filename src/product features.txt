@@ -6,4 +6,6 @@ Routes
 1. App
   1.1 - 
 1. Dashboard - /
-2. Analytics - 
+2. Analytics -
+3. Tables
+4. UI elements 
